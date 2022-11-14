@@ -11,3 +11,4 @@ This project requires to build a multi-section landing page, with a dynamically 
 [Project rubric](https://review.udacity.com/#!/rubrics/3601/view)
 
 ## Live
+[Here](https://thekraalamoudi.github.io/Landing_Page/index.html)
